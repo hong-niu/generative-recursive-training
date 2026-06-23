@@ -27,5 +27,13 @@ generative-recursive-training/
 ├── experiments/       # Code for empirical experiments on real-world datasets/models
 ├── simulations/       # Code and notebooks to reproduce theoretical simulations 
 ├── README.md          # Project overview and setup instructions
+```
 
 The scripts and notebooks are mostly self-contained, see manuscript for experimental parameters used. Manuscript figures are generated via separate notebooks. 
+
+## Citation
+If you find this helpful, please cite: 
+
+```text
+Wang, Kevin, Niu, Hongqian, and Li, Didong. "Can Generative Artificial Intelligence Survive Data Contamination? Theoretical Guarantees under Contaminated Recursive Training." arXiv preprint arXiv:2602.16065 (2026).
+```
